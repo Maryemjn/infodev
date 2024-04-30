@@ -10,33 +10,23 @@
   */
   authors:
   (
-    (
-      name: "Abdelbacet Mhamdi",
-      department: [Senior-lecturer, Dept. of EE],
-      organization: [ISET Bizerte --- Tunisia],
-      profile: "a-mhamdi",
-    ),
+  
 
-    /*
+   
     (
-      name: "Student 1",
+      name: "maryem jouini",
       department: [Dept. of EE],
       organization: [ISET Bizerte --- Tunisia],
       profile: "abc",
     ),
     (
-      name: "Student 2",
+      name: "Nefzi zeyneb",
       department: [Dept. of EE],
       organization: [ISET Bizerte --- Tunisia],
       profile: "abc",
     ),
-    (
-      name: "Student 3",
-      department: [Dept. of EE],
-      organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
-    )
-  */
+    
+ 
 
   )
   // index-terms: (""),
